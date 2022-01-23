@@ -4,6 +4,7 @@ items:
  - redhatofficial/redhatofficial.github.io
  - cfpb/cfpb.github.io
  - Netflix/netflix.github.com
+ - odpf/platform
  - Esri/esri.github.io
  - square/square.github.io
  - twitter/twitter.github.io
